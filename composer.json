@@ -1,0 +1,16 @@
+{
+  "name": "themedicalrepublic/pmpro-roles",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/themedicalrepublic/pmpro-roles",
+  "authors": [
+    {
+      "name": "strangerstudios, joshlevinson",
+      "homepage": "https://www.paidmembershipspro.com/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
